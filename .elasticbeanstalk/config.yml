@@ -1,9 +1,9 @@
 branch-defaults:
   main:
-    environment: flask-continuous-delivery-env
+    environment: flask-continuous-delivery-s04-env
     group_suffix: null
 global:
-  application_name: flask-continuous-delivery
+  application_name: flask-continuous-delivery-s04
   branch: null
   default_ec2_keyname: null
   default_platform: Python 3.7
