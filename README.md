@@ -1,0 +1,11 @@
+- Forked git repo
+- Cloned git repo to S9 environment
+- Deleted .elasticbeanstalk folder
+- Changed buildspec, and makefile to match proper application and environment names
+- Created and sourced python virtual environment
+- Ran and tested "application.py"
+- Initialized eb application
+- ran eb create
+    - As seen in the demo video the eb engine encounters an error while attempting to build the environment. I have found no way to overcome this error.
+  
+ - Youtube link : https://youtu.be/5wPlX8RhBG8
